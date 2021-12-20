@@ -21,13 +21,6 @@
     "category": "Sweets",
     "price": 12.5,
     "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/brownies.jpg"
-  },
-    {
-    "id": 4,
-    "name": "Cheese cake 2",
-    "category": "Sweets",
-    "price": 19.5,
-    "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/cheesecake_strowberry.jpg"
   }
 ]
 }
