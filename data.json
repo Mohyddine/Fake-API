@@ -5,14 +5,14 @@
     "id": 1,
     "name": "Brownie",
     "category": "Sweets",
-    "price": 12.5,
+    "price": 13,
     "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/brownies.jpg"
   },
     {
     "id": 2,
     "name": "Cheese cake",
     "category": "Sweets",
-    "price": 19.5,
+    "price": 20,
     "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/cheesecake_strowberry.jpg"
   }
 ]
