@@ -3,7 +3,7 @@
   "items": [
   {
     "id": 1,
-    "name": "Browni",
+    "name": "Brownie",
     "category": "Sweets",
     "price": 12.5,
     "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/brownies.jpg"
@@ -11,6 +11,20 @@
     {
     "id": 2,
     "name": "Cheese cake",
+    "category": "Sweets",
+    "price": 19.5,
+    "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/cheesecake_strowberry.jpg"
+  },
+    {
+    "id": 3,
+    "name": "Brownie 2",
+    "category": "Sweets",
+    "price": 12.5,
+    "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/brownies.jpg"
+  },
+    {
+    "id": 4,
+    "name": "Cheese cake 2",
     "category": "Sweets",
     "price": 19.5,
     "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/cheesecake_strowberry.jpg"
