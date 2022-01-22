@@ -14,6 +14,13 @@
     "category": "Sweets",
     "price": 20,
     "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/cheesecake_strowberry.jpg"
+  },
+ {
+    "id": 2,
+    "name": "Cheese cake",
+    "category": "Sweets",
+    "price": 20,
+    "image": "https://raw.githubusercontent.com/Mohyddine/Fake-API/main/cheesecake_strowberry.jpg"
   }
 ]
 }
